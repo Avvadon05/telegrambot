@@ -1,0 +1,3 @@
+BOT_TOKEN = "8424181213:AAFPjg192Kod_W8Jg8lCN0hSSHdKVz5UUyg"
+ADMIN_ID = 5307906679  # Telegram ID администратора
+BOT_USERNAME = "sweetyrebot"
